@@ -1,9 +1,9 @@
 This is a to do list project. You can make your note or work list here. You can also delete it ans edit it also.
-# 📝 To-Do List Web Application
+ 📝 To-Do List Web Application
 
 A simple and responsive To-Do List application built using HTML, Bootstrap, and JavaScript. This project allows users to add, manage, and clear their daily tasks in an easy-to-use interface.
 
-## 🚀 Features
+🚀 Features
 
 - ➕ Add new tasks
 - 📋 Display all tasks
@@ -12,21 +12,21 @@ A simple and responsive To-Do List application built using HTML, Bootstrap, and 
 - 📱 Responsive design using Bootstrap
 - ⚡ Fast and lightweight
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - Bootstrap 5
 - JavaScript (Vanilla JS)
 
-## 📂 Project Structure
+📂 Project Structure
 To-Do-List/
 │── index.html
 │── todo.js
 │── README.md
-```
 
-## ▶️ How to Run
+
+▶️ How to Run
 
 1. Clone this repository
 bash:
@@ -36,7 +36,8 @@ git clone https://github.com/anamika3553/To-Do-List.git
 
 3. Double-click `todo.html`
    or run it using **VS Code Live Server**.
-## 🎯 Future Improvements
+
+🎯 Future Improvements
 
 - Save tasks using Local Storage
 - Add Task Categories
@@ -45,7 +46,7 @@ git clone https://github.com/anamika3553/To-Do-List.git
 - Search Tasks
 - Filter Completed/Pending Tasks
 
-## 🤝 Contributing
+🤝 Contributing
 
 Contributions are welcome!
 
@@ -55,8 +56,7 @@ Contributions are welcome!
 4. Push the branch
 5. Open a Pull Request
 
-## 👩‍💻 Author
-
+👩‍💻 Author
 **Anamika Mohonto**
 
 GitHub: https://github.com/anamika3553
